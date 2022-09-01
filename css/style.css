@@ -1,0 +1,93 @@
+*{
+	margin:0;
+	padding:0;
+	list-style:none;
+	font-family:sans-serif;
+	}
+	
+body {
+	margin: 0;
+	position: relative;
+	padding-bottom: 40px;
+	min-width: 1200px;
+}
+
+.header{
+	width:100%;
+	}
+  .logo-nav-container {
+    background: linear-gradient(to right, rgba(73,165,191,1) 0%, rgba(73,165,191,1) 2%, rgba(117,189,209,1) 47%, rgba(147,206,222,1) 100%);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+  }
+  .navigation ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+  }
+  .navigation ul li {
+	display: inline-block;
+	
+  }
+  .navigation ul li a {
+	display: block;
+	padding: 0.5rem 1rem;
+  }
+  .navigation ul li a:hover {
+	background-color: #a4dded;
+  }
+  a.arg-programa img{
+	height: 50px;
+	float: center;
+	
+  }
+  a.facebook img{
+	height: 50px;
+	float: center;
+	
+  }
+  a.instagram img{
+	height: 50px;
+	float: center;
+	
+  }
+  a.whatsapp img{
+	height: 50px;
+	float: center;
+	
+  }
+  a.login img{
+	height: 50px;
+	float: center;
+	
+  }
+	
+#banner{
+	display: block;
+	width:100%;
+	height: 250px;
+	border-color: #fff;
+	
+	
+	}
+	#img_banner {
+		display: block;
+		margin: auto;
+		width: 100%;
+		
+	}
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+	
+
